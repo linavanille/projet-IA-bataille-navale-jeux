@@ -1,0 +1,18 @@
+Bienvenue dans Star Wars !
+
+Le jeu se deroule sur une grille représentant l'espace. Chaque joueur place secretement ses vaisseaux sur sa propre grille. Suivant le mode de difficulte, les vaisseaux peuvent etre de tailles differentes : un aeroglisseur (1 case), une navette (2 cases) et un destroyer (4 cases). 
+
+Le joueur affronte un robot super performant. Ils prennent tour à tour des tirs en désignant les coordonnées d'une case sur la grille de l'adversaire. Si le tir atteint une case occupée par une partie d'un vaisseau, c'est une touche. Lorsque toutes les cases d'un vaisseau sont touchees, le vaisseau est détruit.
+
+Le joueur gagne des points en fonction du type de vaisseau detruit. Attention, le jeu est interrompu pour permettre au joueur de gagner des points Bonus en choisissant un jeu parmi une selection tel que le pendu.
+
+Le joueur peut egalement opter pour un mode special: le mode Chaos ! Il suit les memes regles que les modes normaux avec une petite particularite.
+
+Quelques règles importantes :
+- Les vaisseaux ne peuvent ni se chevaucher, se toucher ou être placés en diagonale.
+- Les tirs sont annoncés par des coordonnées, par exemple, A7.
+- Les grilles sont identifiées par des lignes (A, B, C, ...) et des colonnes (1, 2, 3, ...).
+- Un tir raté est indiqué par un "raté" et un # sur la grille.
+
+Prêt à affronter le cote obscur ? Que la Force soit avec vous !
+

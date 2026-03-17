@@ -1,0 +1,24 @@
+Menu des jeux:
+
+1. Serpent: 					2. Morpion:
+ ############					  X |   |   
+ #          #  					 ---+---+---
+ #  P   Ooo #					    | X |   
+ #          # 					 ---+---+---
+ ############		 			    |   | O 
+
+
+3. Puissance 4: 				4. Pendu
+
+  1 | 2 | 3 | 4 | 5 | 6 | 7  								
+  ---------------------------								
+  |  |  |  |  |  |  |  |  |  		 	 _____
+  |  |  |  |  |  |  |  |  |   		    	|     |
+  |  |  |  |  |  |  |  |  |  		    	|     O
+  |  |  |  |  |  |  |  |  |  		    	|    /|\
+  |  |  |X |  |  |  |  |  |   		    	|    / \
+  |__|__|X_|__|O_|O |__|__|    			   ___|___
+
+0. Quitter
+
+Choisissez un jeu en entrant le numero correspondant:
