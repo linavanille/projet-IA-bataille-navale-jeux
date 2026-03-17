@@ -1,16 +1,16 @@
-Bataille Navale + Jeux IA
+# Bataille Navale + Jeux IA
 
-Description
+## Description
 Projet développé en Pascal combinant un jeu de bataille navale avec plusieurs mini-jeux et des fonctionnalités d'intelligence artificielle.
 
-Fonctionnalités
+## Fonctionnalités
 - Bataille navale
 - Mini-jeux (Snake, Morpion, Pendu, etc.)
 - Mode IA
 
-Langage(s) utilisé(s)
+## Langage(s) utilisé(s)
 - Pascal
 
-Installation
+## Installation
 Compiler avec FreePascal
 
